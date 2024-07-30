@@ -57,7 +57,7 @@ The College ERP project simplifies college management by automating tasks like a
 # SetUp
 ```
 in /utils/db.js 
-Replace your-mongodb-uri and with your actual MongoDB URI.
+Replace your-mongodb-url and with your actual MongoDB URL.
 ```
 
 # Installation
