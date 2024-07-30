@@ -29,6 +29,8 @@ The College ERP project simplifies college management by automating tasks like a
 ![image](https://github.com/user-attachments/assets/d6d53457-98bb-47d9-b4ce-332c29942bd4)
 
 # FEATURES
+
+**Features of COLLEGE-ERP:**
 **1. User Authentication:**
    - Secure login for administrators, faculty, and students.  
 **2. Attendance Management:**
