@@ -60,8 +60,13 @@ in /utils/db.js
 Replace your-mongodb-url and with your actual MongoDB URL.
 ```
 
+# CREATE APPLICATION
+```
+npx create-react-app College-ERP
+cd College-ERP
+```
 
-# Installation
+# INSTALLATION
 
 ## Install backend
 ```
