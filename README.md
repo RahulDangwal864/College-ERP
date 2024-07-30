@@ -54,17 +54,12 @@ The College ERP project simplifies college management by automating tasks like a
     - Secure storage and handling of data to protect user information.
 
 
-# SetUp
+# SETUP
 ```
 in /utils/db.js 
 Replace your-mongodb-url and with your actual MongoDB URL.
 ```
 
-# CREATE APPLICATION
-```
-npx create-react-app College-ERP
-cd College-ERP
-```
 
 # INSTALLATION
 
