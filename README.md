@@ -1,6 +1,7 @@
 # College-ERP
 The College ERP project simplifies college management by automating tasks like attendance, course management, fee tracking, and notices. Built with React.js for the frontend and Node.js, Express.js, and MongoDB for the backend, it ensures efficient, centralized, and secure handling of college data, benefiting students, faculty, and administrators.
 
+
 # LOGIN PAGE
 ![image](https://github.com/user-attachments/assets/156699a5-55fc-4f61-83af-986c8b938ba3)
 
@@ -27,6 +28,7 @@ The College ERP project simplifies college management by automating tasks like a
 ![image](https://github.com/user-attachments/assets/61efc227-4bfb-40bb-add8-080e9c1d684a)
 # VIEW ATTENDANCE
 ![image](https://github.com/user-attachments/assets/d6d53457-98bb-47d9-b4ce-332c29942bd4)
+
 
 # FEATURES
 
