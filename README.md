@@ -31,25 +31,26 @@ The College ERP project simplifies college management by automating tasks like a
 # FEATURES
 
 **Features of COLLEGE-ERP:**
-**1. User Authentication:**
+
+1. **User Authentication:**
    - Secure login for administrators, faculty, and students.  
-**2. Attendance Management:**
+2. **Attendance Management:**
    - Easy recording and tracking of student attendance.  
-**3. Course Management:**
+3. **Course Management:**
    - Add, update, and manage courses efficiently.  
-**4. Exam Management:**
+4. **Exam Management:**
    - Schedule and manage exams and results.  
-**5. Notice Board:**
+5. **Notice Board:**
    - Centralized platform for important notices and announcements. 
-**6. Fee Tracking:**
+6. **Fee Tracking:**
    - Monitor and manage student fee payments.  
-**7. Profile Management:**
+7. **Profile Management:**
    - Update and manage user profiles.  
-**8. Feedback System:**
+8. **Feedback System:**
    - Collect and manage feedback from students. 
-**9. Responsive Design:**
+9. **Responsive Design:**
    - Accessible on various devices, ensuring a seamless user experience.
-**10. Data Security:**
+10. **Data Security:**
     - Secure storage and handling of data to protect user information.
 
 
