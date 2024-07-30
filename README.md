@@ -27,3 +27,66 @@ The College ERP project simplifies college management by automating tasks like a
 ![image](https://github.com/user-attachments/assets/61efc227-4bfb-40bb-add8-080e9c1d684a)
 # VIEW ATTENDANCE
 ![image](https://github.com/user-attachments/assets/d6d53457-98bb-47d9-b4ce-332c29942bd4)
+
+# FEATURES
+
+**1. User Authentication:**
+   - Secure login for administrators, faculty, and students.  
+**2. Attendance Management:**
+   - Easy recording and tracking of student attendance.  
+**3. Course Management:**
+   - Add, update, and manage courses efficiently.  
+**4. Exam Management:**
+   - Schedule and manage exams and results.  
+**5. Notice Board:**
+   - Centralized platform for important notices and announcements. 
+**6. Fee Tracking:**
+   - Monitor and manage student fee payments.  
+**7. Profile Management:**
+   - Update and manage user profiles.  
+**8. Feedback System:**
+   - Collect and manage feedback from students. 
+**9. Responsive Design:**
+   - Accessible on various devices, ensuring a seamless user experience.
+**10. Data Security:**
+    - Secure storage and handling of data to protect user information.
+
+
+# SetUp
+```
+in /utils/db.js 
+Replace your-mongodb-uri and with your actual MongoDB URI.
+```
+
+# Installation
+
+## Install backend
+```
+cd backend
+npm install
+```
+
+# Install frontend
+in another tab
+```
+cd frontend
+npm install
+```
+
+# RUN APPLICATION
+
+## Run Frontend
+```
+cd frontend
+npm start
+```
+
+## Run Backend
+```
+cd backend
+npm nodemon index.js
+```
+
+
+# Contributing
+Contributions are welcome! If you find any bugs or want to suggest improvements, please open an issue or submit a pull request.
