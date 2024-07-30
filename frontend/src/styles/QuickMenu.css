@@ -1,0 +1,7 @@
+.sidebar ul {
+    padding: 0px !important;
+}
+
+.quick-access ul li:hover {
+    background-color: #61c261; 
+}

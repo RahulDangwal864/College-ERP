@@ -1,0 +1,51 @@
+# Node modules
+/node_modules
+
+# Production build
+/build
+/dist
+
+# Runtime data
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Test coverage
+/coverage
+
+# Local development logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IntelliJ
+/.idea
+
+# VS Code
+/.vscode
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Static files
+/public/static
+
+# Cache
+/.cache
+.cache-loader
+
+# Parcel-bundler cache (specific case)
+.cache
+
+# TypeScript build cache
+/.tsbuildinfo
+
+# Yarn PnP
+.pnp.*

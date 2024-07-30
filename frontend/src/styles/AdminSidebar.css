@@ -1,0 +1,20 @@
+.sidebar, .your-profile {
+    background-color: #f4f8fa;
+}
+
+.your-profile:hover {
+    background-color: #61c261;
+}
+
+.your-profile:active {
+    background-color: #61c261;
+}
+
+.sidebar ul {
+    padding: 0px !important;
+}
+
+.sidebar ul li a:hover {
+    background-color: #61c261; 
+}
+
