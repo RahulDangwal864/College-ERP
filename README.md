@@ -60,6 +60,7 @@ in /utils/db.js
 Replace your-mongodb-url and with your actual MongoDB URL.
 ```
 
+
 # Installation
 
 ## Install backend
@@ -74,6 +75,7 @@ in another tab
 cd frontend
 npm install
 ```
+
 
 # RUN APPLICATION
 
